@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-
+  <p><?php echo $applicationName?></p>
   <p>This shall be the new home :)</p>
 
 </div>
