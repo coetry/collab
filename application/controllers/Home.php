@@ -8,4 +8,5 @@ class Home extends CI_Controller {
     $data['applicationName'] = 'Code Collaboration';
     $this->load->view('home_view', $data);
   }
+  
 }
