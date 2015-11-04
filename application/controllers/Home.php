@@ -6,6 +6,6 @@ class Home extends CI_Controller {
   public function index()
   {
     $data['applicationName'] = 'Code Collaboration';
-    $this->load->view('home', $data);
+    $this->load->view('home_view', $data);
   }
 }
