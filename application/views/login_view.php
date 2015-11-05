@@ -12,5 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <h1>Password</h1>
   <input type="text" name="password" value="" size="50"/>
   <input type="submit" value="Submit"/>
+  <br/>
+  <a href="/register/">Register</a>
 </body>
 </html>
