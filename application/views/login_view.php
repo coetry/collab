@@ -7,10 +7,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <title>Login</title>
 </head>
 <body>
-    <h1>Username</h1>
-    <input type="text" name="username" value="" size="50"/>
-    <h1>Password</h1>
-    <input type="text" name="password" value="" size="50"/>
-    <input type="submit" value="Submit"/>
+  <h1>Username</h1>
+  <input type="text" name="username" value="" size="50"/>
+  <h1>Password</h1>
+  <input type="text" name="password" value="" size="50"/>
+  <input type="submit" value="Submit"/>
 </body>
 </html>
