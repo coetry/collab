@@ -1,2 +1,1 @@
-
-<p><?php echo $text ?></p>
+<?php if (isset($welcome_message)) { echo '<p>'.$welcome_message.'</p>'; } ?>
